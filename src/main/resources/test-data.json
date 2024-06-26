@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "ISBN": "123456789",
+      "genre": "Programming",
+      "publicationYear": 2008,
+      "department": "Computer Science",
+      "availability": true
+    },
+    {
+      "title": "Java Concurrency in Practice",
+      "author": "Brian Goetz",
+      "ISBN": "987654321",
+      "genre": "Programming",
+      "publicationYear": 2006,
+      "department": "Computer Science",
+      "availability": false
+    }
+  ]
+}
